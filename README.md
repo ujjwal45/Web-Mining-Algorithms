@@ -12,3 +12,9 @@ The initial set of pages is called root set. These pages are then expanded to a 
 
        h(p)=∑q→pa(q)
 
+### Naive Bayes
+
+Bayes Theorem helps us to find the probability of a hypothesis given our prior knowledge.
+
+As per wikipedia,In probability theory and statistics, Bayes’ theorem (alternatively Bayes’ law or Bayes’ rule, also written as Bayes’s theorem) describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
+
